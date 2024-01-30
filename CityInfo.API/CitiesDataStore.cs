@@ -14,7 +14,7 @@ namespace CityInfo.API
                 new CityDto()
                 {
                      Id = 1,
-                     Name = "New York City",
+                     Name = "New York ",
                      Description = "The one with that big park.",
                      PointsOfInterest = new List<PointOfInterestDto>()
                      {
