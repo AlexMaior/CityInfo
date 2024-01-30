@@ -22,7 +22,6 @@ namespace CityInfo.API
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-            app.UseLoggingMiddleware();
 
             app.UseHttpsRedirection();
 
